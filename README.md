@@ -1,3 +1,9 @@
+I'm Kenny and I'm a full-stack engineer! I have a master's degree in architectural engineering and spent about seven years working as a mechanical engineer and project leader at an MEP consulting firm. Even though my primary duties were mechanical engineering related, I took every opportunity I could find to hone my skills as a developer as well. I especially enjoyed bringing my experience with Python in to help automate tasks related to design of HVAC systems.
+
+My passion for software engineering led me to pursue this career change and I am currently going through the Flatiron School program. Being self-taught and having some experience with JavaScript and Python is proving to be very helpful, and I'm excited to be learning some new tools along the way. After graduating from the course in early January 2022, I am thrilled to pursue my first career in this industry!
+
+Check out my portfolio at [kdfitz.com](https://kdfitz.com)!
+
 ### Technologies
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Ajavascript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Atypescript)
