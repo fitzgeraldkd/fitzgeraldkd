@@ -22,6 +22,12 @@ Check out my portfolio at [kdfitz.com](https://kdfitz.com)!
 ### Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-fitzgerald/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fitzgeraldkd)
+
+### My Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **fitzgeraldkd/fitzgeraldkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
