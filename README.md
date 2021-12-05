@@ -26,6 +26,10 @@ Check out my portfolio at [kdfitz.com](https://kdfitz.com)!
 ### My Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making the Most of DSA Practice](https://dev.to/fitzgeraldkd/making-the-most-of-dsa-practice-5h78)
+- [Building a Dot Matrix Animator](https://dev.to/fitzgeraldkd/building-a-dot-matrix-animator-4edm)
+- [Object References &lpar;Why [&#39;this&#39;]!==[&#39;this&#39;]&rpar;](https://dev.to/fitzgeraldkd/object-references-why-thisthis-5l6)
+- [Navigating Complex Objects](https://dev.to/fitzgeraldkd/navigating-complex-objects-4pe7)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
