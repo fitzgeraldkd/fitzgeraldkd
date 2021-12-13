@@ -26,6 +26,7 @@ Check out my portfolio at [kdfitz.com](https://kdfitz.com)!
 ### My Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React-Calendar with Custom Styles](https://dev.to/fitzgeraldkd/react-calendar-with-custom-styles-30c9)
 - [Making the Most of DSA Practice](https://dev.to/fitzgeraldkd/making-the-most-of-dsa-practice-5h78)
 - [Building a Dot Matrix Animator](https://dev.to/fitzgeraldkd/building-a-dot-matrix-animator-4edm)
 - [Object References &lpar;Why [&#39;this&#39;]!==[&#39;this&#39;]&rpar;](https://dev.to/fitzgeraldkd/object-references-why-thisthis-5l6)
