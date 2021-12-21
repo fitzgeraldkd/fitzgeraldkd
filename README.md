@@ -15,9 +15,9 @@ Check out my portfolio at [kdfitz.com](https://kdfitz.com)!
 
 ### Learning
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Apostgres)
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Ajquery)
 [![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Ajest)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Asass)
+[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Aredux)
 
 ### Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-fitzgerald/)
