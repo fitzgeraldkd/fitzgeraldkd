@@ -7,6 +7,9 @@ With graduation right around the corner, I can't wait to see where this path tak
 Check out my portfolio at [kdfitz.com](https://kdfitz.com)!
 
 ### Technologies
+
+*Click a badge to see some projects I've built!*
+
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Ajavascript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Atypescript)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Areact)
