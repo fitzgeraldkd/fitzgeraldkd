@@ -2,7 +2,7 @@ I'm Kenny and I'm a full-stack engineer! After many years of exploring my passio
 
 Before enrolling at Flatiron, I earned a master's degree in architectural engineering and worked as a Project Leader and Mechanical Engineer at an MEP consulting firm for about seven years. In this position I took every opportunity I could find to hone my skills as a developer. I built a variety of Python tools to help automate certain engineering tasks that were otherwise tedious to complete manually. My time in this role also gave me the opportunity to develop communication and project management skills.
 
-With graduation right around the corner, I can't wait to see where this path takes me! If you are looking for a driven full-stack engineer that's always excited to take on a new challenge, I'd love to connect!
+Being a recent graduate of the software engineering course, I can't wait to see where this path takes me! If you are looking for a driven full-stack engineer that's always excited to take on a new challenge, I'd love to connect!
 
 Check out my portfolio at [kdfitz.com](https://kdfitz.com)!
 
@@ -12,17 +12,17 @@ Check out my portfolio at [kdfitz.com](https://kdfitz.com)!
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Ajavascript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Atypescript)
+
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Areact)
+[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Aredux)
+[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Ajest)
+
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Aruby)
 [![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Arails)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Apostgres)
+
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Apython)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Adjango)
-
-### Learning
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Apostgres)
-[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Ajest)
-[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Asass)
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/fitzgeraldkd?tab=repositories&q=topic%3Aredux)
 
 ### Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-fitzgerald/)
